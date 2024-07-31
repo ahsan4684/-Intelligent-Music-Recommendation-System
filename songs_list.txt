@@ -1,0 +1,110 @@
+Name: Autumn Leaves, Genre: Classical, Artist: Lady Gaga
+Name: Twilight Zone, Genre: Pop, Artist: Justin Bieber
+Name: Shape of You, Genre: Pop, Artist: Ed Sheeran
+Name: Rolling in the Deep, Genre: Soul, Artist: Adele
+Name: Bohemian Rhapsody, Genre: Rock, Artist: Queen
+Name: Imagine, Genre: Rock, Artist: John Lennon
+Name: Dancing Queen, Genre: Disco, Artist: ABBA
+Name: Smells Like Teen Spirit, Genre: Grunge, Artist: Nirvana
+Name: Bad Guy, Genre: Pop, Artist: Billie Eilish
+Name: Billie Jean, Genre: Pop, Artist: Michael Jackson
+Name: Hotel California, Genre: Rock, Artist: Eagles
+Name: Lose Yourself, Genre: Hip-Hop, Artist: Eminem
+Name: All of Me, Genre: Jazz, Artist: John Legend
+Name: Someone Like You, Genre: Soul, Artist: Adele
+Name: Rolling Stones, Genre: Rock, Artist: The Rolling Stones
+Name: Sweet Child O' Mine, Genre: Rock, Artist: Guns N' Roses
+Name: Uptown Funk, Genre: Funk, Artist: Mark Ronson
+Name: Can't Stop the Feeling!, Genre: Pop, Artist: Justin Timberlake
+Name: Thinking Out Loud, Genre: Pop, Artist: Ed Sheeran
+Name: Hey Jude, Genre: Rock, Artist: The Beatles
+Name: Someone You Loved, Genre: Pop, Artist: Lewis Capaldi
+Name: Shallow, Genre: Pop, Artist: Lady Gaga
+Name: Stronger, Genre: Pop, Artist: Kanye West
+Name: Crazy in Love, Genre: Pop, Artist: Beyoncé
+Name: My Heart Will Go On, Genre: Pop, Artist: Celine Dion
+Name: Viva La Vida, Genre: Alternative, Artist: Coldplay
+Name: Radioactive, Genre: Rock, Artist: Imagine Dragons
+Name: Lose Yourself to Dance, Genre: Funk, Artist: Daft Punk
+Name: In the End, Genre: Rock, Artist: Linkin Park
+Name: Happy, Genre: Pop, Artist: Pharrell Williams
+Name: Royals, Genre: Pop, Artist: Lorde
+Name: Thunderstruck, Genre: Rock, Artist: AC/DC
+Name: Born to Run, Genre: Rock, Artist: Bruce Springsteen
+Name: Senorita, Genre: Pop, Artist: Shawn Mendes
+Name: Havana, Genre: Pop, Artist: Camila Cabello
+Name: Counting Stars, Genre: Pop, Artist: OneRepublic
+Name: Believer, Genre: Rock, Artist: Imagine Dragons
+Name: Titanium, Genre: Pop, Artist: David Guetta
+Name: Chandelier, Genre: Pop, Artist: Sia
+Name: Cheap Thrills, Genre: Pop, Artist: Sia
+Name: Shake It Off, Genre: Pop, Artist: Taylor Swift
+Name: Love Story, Genre: Pop, Artist: Taylor Swift
+Name: Blank Space, Genre: Pop, Artist: Taylor Swift
+Name: Sorry, Genre: Pop, Artist: Justin Bieber
+Name: Let Her Go, Genre: Pop, Artist: Passenger
+Name: Stay, Genre: Pop, Artist: Rihanna
+Name: Diamonds, Genre: Pop, Artist: Rihanna
+Name: Umbrella, Genre: Pop, Artist: Rihanna
+Name: Love Me Like You Do, Genre: Pop, Artist: Ellie Goulding
+Name: Demons, Genre: Rock, Artist: Imagine Dragons
+Name: Photograph, Genre: Pop, Artist: Ed Sheeran
+Name: One Dance, Genre: Pop, Artist: Drake
+Name: Work, Genre: Pop, Artist: Rihanna
+Name: Rockstar, Genre: Hip-Hop, Artist: Post Malone
+Name: Congratulations, Genre: Hip-Hop, Artist: Post Malone
+Name: Closer, Genre: Pop, Artist: The Chainsmokers
+Name: Something Just Like This, Genre: Pop, Artist: The Chainsmokers
+Name: Stressed Out, Genre: Pop, Artist: Twenty One Pilots
+Name: Ride, Genre: Pop, Artist: Twenty One Pilots
+Name: Heathens, Genre: Pop, Artist: Twenty One Pilots
+Name: This Is What You Came For, Genre: Pop, Artist: Calvin Harris
+Name: Don't Let Me Down, Genre: Pop, Artist: The Chainsmokers
+Name: Tum Hi Ho, Genre: Bollywood, Artist: Arijit Singh
+Name: Channa Mereya, Genre: Bollywood, Artist: Arijit Singh
+Name: Dil Dhadakne Do, Genre: Bollywood, Artist: Priyanka Chopra
+Name: Tere Bina, Genre: Bollywood, Artist: A. R. Rahman
+Name: Kabira, Genre: Bollywood, Artist: Arijit Singh
+Name: Kabhi Jo Baadal Barse, Genre: Bollywood, Artist: Arijit Singh
+Name: Pani Da Rang, Genre: Bollywood, Artist: Ayushmann Khurrana
+Name: Galliyan, Genre: Bollywood, Artist: Ankit Tiwari
+Name: Jeene Laga Hoon, Genre: Bollywood, Artist: Yasser Desai
+Name: Tum Mile, Genre: Bollywood, Artist: Neeraj Shridhar
+Name: Sun Saathiya, Genre: Bollywood, Artist: Priya Saraiya
+Name: Raabta, Genre: Bollywood, Artist: Arijit Singh
+Name: Dil Se Re, Genre: Bollywood, Artist: A. R. Rahman
+Name: Pal, Genre: Bollywood, Artist: Arijit Singh
+Name: Samjhawan, Genre: Bollywood, Artist: Arijit Singh
+Name: Hasi, Genre: Bollywood, Artist: Ami Mishra
+Name: Ae Mere Humsafar, Genre: Bollywood, Artist: Mansheel Gujral
+Name: Zaalima, Genre: Bollywood, Artist: Arijit Singh
+Name: O Sathi Re, Genre: Bollywood, Artist: A. R. Rahman
+Name: Agar Tum Saath Ho, Genre: Bollywood, Artist: Alka Yagnik
+Name: Tere Sang Yaara, Genre: Bollywood, Artist: Atif Aslam
+Name: Tum Jo Aaye, Genre: Bollywood, Artist: Rahat Fateh Ali Khan
+Name: Main Tera Boyfriend, Genre: Bollywood, Artist: Arijit Singh
+Name: Koi Fariyaad, Genre: Bollywood, Artist: Jagjit Singh
+Name: Tum Hi Ho Bandhu, Genre: Bollywood, Artist: Neeraj Shridhar
+Name: Khuda Jaane, Genre: Bollywood, Artist: K.K.
+Name: Tere Liye, Genre: Bollywood, Artist: Lata Mangeshkar
+Name: Soch Na Sake, Genre: Bollywood, Artist: Arijit Singh
+Name: Humma Humma, Genre: Bollywood, Artist: A. R. Rahman
+Name: Koi Kahe Kehta Rahe, Genre: Bollywood, Artist: Shankar-Ehsaan-Loy
+Name: Chale Aana, Genre: Bollywood, Artist: Armaan Malik
+Name: Ishq Sufiyana, Genre: Bollywood, Artist: Kamran Ahmed
+Name: Sanu Ek Pal Chain, Genre: Bollywood, Artist: Nusrat Fateh Ali Khan
+Name: Muskurane, Genre: Bollywood, Artist: Arijit Singh
+Name: Khair Mangda, Genre: Bollywood, Artist: Bilal Saeed
+Name: Tere Bin, Genre: Bollywood, Artist: Rahat Fateh Ali Khan
+Name: Tera Ban Jaunga, Genre: Bollywood, Artist: Akhil Sachdeva
+Name: Dilliwaali Girlfriend, Genre: Bollywood, Artist: Arijit Singh
+Name: Jashn-E-Bahaara, Genre: Bollywood, Artist: Javed Ali
+Name: Jiya Re, Genre: Bollywood, Artist: Neeti Mohan
+Name: Naina, Genre: Bollywood, Artist: Arijit Singh
+Name: Hasi Ban Gaye, Genre: Bollywood, Artist: Ami Mishra
+Name: Saathiya, Genre: Bollywood, Artist: Udit Narayan
+Name: Lag Ja Gale, Genre: Bollywood, Artist: Lata Mangeshkar
+Name: Mera Yaar, Genre: Bollywood, Artist: Darshan Raval
+Name: Kya Mujhe Pyar Hai, Genre: Bollywood, Artist: Kunal Ganjawala
+Name: Kya Hua Tera Wada, Genre: Bollywood, Artist: Mohammed Rafi
+Name: Mere Rashke Qamar, Genre: Bollywood, Artist: Rahat Fateh Ali Khan
